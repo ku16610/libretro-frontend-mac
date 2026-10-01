@@ -12,7 +12,7 @@ A native macOS front end for [libretro](https://www.libretro.com/) emulator core
 
 ## Download
 
-Grab the `.dmg` from the [latest release](../../releases/latest) and drag `LibretroFrontend.app` into your **Applications** folder.
+Grab the `.dmg` from the [latest release](https://github.com/ku16610/libretro-frontend-mac/releases/latest) and drag `LibretroFrontend.app` into your **Applications** folder.
 
 You need your own games — ROMs are not included, and none can be downloaded from within the app.
 
@@ -75,7 +75,7 @@ You only have to do this once. After the first successful launch macOS remembers
 
 ## Notes
 
-- Cores run with the usual caveats of any emulator: hardware not emulated ( rumble, some copy protection) may not work, and each core has its own quirks.
+- Cores run with the usual caveats of any emulator: hardware not emulated (rumble, some copy protection) may not work, and each core has its own quirks.
 - Performance varies by core and by the Mac. Cores that lean on recompiled code (Dolphin, PS3, Switch) need the most.
 - The app is unsigned and unnotarised, hence the Gatekeeper step above.
 - This repository holds **downloads only**. Issue reports and feature requests are welcome here; the app is not open source.
